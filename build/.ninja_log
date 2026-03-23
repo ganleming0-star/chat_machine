@@ -1,0 +1,14 @@
+# ninja log v5
+0	20	0	clean	a31eedcededa8236
+22	2561	1774191472938005734	CMakeFiles/server.dir/src/server/usermodel.cpp.o	a77d1930b7bba1ef
+28	2649	1774191473026006078	CMakeFiles/server.dir/src/server/offlineMessageModel.cpp.o	13e45fe90894e7fd
+31	2962	1774191473335007288	CMakeFiles/server.dir/src/server/friendModel.cpp.o	4b24161f598904e9
+81	3882	1774191474259010903	CMakeFiles/client.dir/src/redis/redis.cpp.o	140abd8ca234b25c
+36	3260	1774191473645008500	CMakeFiles/server.dir/src/server/groupModel.cpp.o	3c6b9402d676e428
+88	8573	1774195938986522427	CMakeFiles/server.dir/src/server/main.cpp.o	ec20177b6cb6c085
+91	9817	1774195940229522406	CMakeFiles/server.dir/src/server/chatserver.cpp.o	a2b38952bdfb0849
+95	10432	1774195940843522395	CMakeFiles/server.dir/src/server/chatservice.cpp.o	a1dc8be194ae14b5
+47	3729	1774191474112010327	CMakeFiles/server.dir/src/redis/redis.cpp.o	3eb1b53d64b07331
+10433	11763	1774195942174522373	../bin/server	485d00f44db10f45
+56	10687	1774191481066037538	CMakeFiles/client.dir/src/client/main.cpp.o	63c98062d5ebe880
+10687	11322	1774191481707040047	../bin/client	bc36516b53567d02
